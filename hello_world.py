@@ -17,4 +17,4 @@ foo()
 
 # COMMAND ----------
 
-
+print("hello!")
