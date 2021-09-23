@@ -14,7 +14,3 @@ def foo():
     print(i)
     
 foo()
-
-# COMMAND ----------
-
-print("hello!")
