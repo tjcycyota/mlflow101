@@ -5,6 +5,10 @@
 
 # COMMAND ----------
 
+# MAGIC %pip install -r requirements.txt
+
+# COMMAND ----------
+
 print("Hello world! This is a test")
 
 # COMMAND ----------
@@ -18,3 +22,7 @@ foo()
 # COMMAND ----------
 
 print("hello!")
+
+# COMMAND ----------
+
+print("test!")
